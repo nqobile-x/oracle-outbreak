@@ -1,0 +1,5 @@
+{
+  "name": "Outbreak Oracle",
+  "description": "A global disease surveillance dashboard powered by Gemini. It analyzes multiple data sources in real-time to detect, predict, and recommend interventions for potential pandemics.",
+  "requestFramePermissions": []
+}
